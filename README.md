@@ -6,7 +6,7 @@ You can find it here, if you like: [Linky Link](https://github.com/byuidatascien
 
 The purpose of this analysis is to practice graph making with altair, and data analysis with pandas.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/GhresWwaOnc)
 
 # Data Analysis Results
 
